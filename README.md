@@ -1,2 +1,2 @@
 # Calculator-on-JS
-https://github.com/webdesignworld/Calculator-on-JS/#
+https://webdesignworld.github.io/Calculator-on-JS/

@@ -8,7 +8,7 @@ const previousOperandTextElement = document.querySelector('[data-previous-operan
 const currentOperandTextElement = document.querySelector('[data-current-operand]');
 
 
-class with constructor for placement of info on display
+//class with constructor for placement of info on display
 class Calculator {
         constructor(previousOperandTextElement, currentOperandTextElement) {
           this.previousOperandTextElement = previousOperandTextElement;
